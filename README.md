@@ -2,7 +2,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Screenshots](#screenshots)
+- [Application Prototipe](#applicationprototipe)
 - [Installation](#installation)
 - [Usage](#usage)
 
