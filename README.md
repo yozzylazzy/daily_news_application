@@ -1,7 +1,4 @@
 # Daily News Application
-
-![Daily News App](github_asset/news.png)
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
