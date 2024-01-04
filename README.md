@@ -1,6 +1,6 @@
 # Daily News Application
 
-![Daily News App Logo](link/to/logo.png)
+![Daily News App](github_asset/news.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -8,8 +8,6 @@
 - [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -39,7 +37,7 @@ The Daily News Application is a Flutter-based mobile application that provides u
 
 ## Screenshots
 
-![The App Prototipe](link/to/screenshot1.png)
+![The App Prototipe](github_asset/daily_news_app.gif)
 *Application Gif Prototipe*
 
 ## Installation
