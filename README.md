@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="github_asset/news.png" alt="Daily News App" style="width: 50%;">
+</div>
+
 # Daily News Application
 ## Table of Contents
 - [Introduction](#introduction)
