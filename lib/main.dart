@@ -19,6 +19,11 @@ import 'data/db/database_helper.dart';
 import 'data/preferences/preferences_helper.dart';
 import 'ui/home_page.dart';
 import 'dart:io';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
+
+// DotEnv dotenv = DotEnv() is automatically called during import.
+// If you want to load multiple dotenv files or name your dotenv object differently, you can do the following and import the singleton into the relavant files:
+// DotEnv another_dotenv = DotEnv()
 
 final FlutterLocalNotificationsPlugin flutterLocalNotificationsPlugin =
     FlutterLocalNotificationsPlugin();
@@ -32,7 +37,7 @@ Future<void> main() async {
     await AndroidAlarmManager.initialize();
   }
   await notificationHelper.initNotifications(flutterLocalNotificationsPlugin);
-
+  await dotenv.load(fileName: ".env");
   runApp(const NewsApp());
 }
 

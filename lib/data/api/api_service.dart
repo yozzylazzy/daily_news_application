@@ -1,10 +1,11 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 import '../model/article.dart';
+import 'package:flutter_dotenv/flutter_dotenv.dart';
 
 class ApiService {
-  static const String _baseUrl = 'https://newsapi.org/v2/';
-  static const String _apiKey = '9298d64dbc5e4c05a5b5b612c93e62b8';
+  static final String _baseUrl = dotenv.get('BASE_URL');
+  static final String _apiKey = dotenv.get('API_KEY');
   static const String _category = 'business';
   static const String _country = 'us';
 
