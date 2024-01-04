@@ -35,7 +35,7 @@ The Daily News Application is a Flutter-based mobile application that provides u
 ## Application Prototipe
 
 <div align="center">
-  <img src="github_asset/daily_news_app.gif" alt="The App Prototipe" style="width: 200px; height: 200px;">
+  <img src="github_asset/daily_news_app.gif" alt="The App Prototipe" style="width: 50%;">
 </div>
 <!-- ![The App Prototipe](github_asset/daily_news_app.gif)
 *Application Gif Prototipe* -->
