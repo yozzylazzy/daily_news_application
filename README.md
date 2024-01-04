@@ -35,7 +35,7 @@ The Daily News Application is a Flutter-based mobile application that provides u
 - Seamless integration with Flutter WebView for an enhanced reading experience.
 - Users can explore detailed articles within the app using the integrated WebView.
 
-## Screenshots
+## Application Prototipe
 
 ![The App Prototipe](github_asset/daily_news_app.gif)
 *Application Gif Prototipe*
