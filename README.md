@@ -58,6 +58,8 @@ To install and run the Daily News Application, follow these steps:
    ```
    flutter run
 
+Don't forget to create your self .env files. The Structure i use is presented in .env.example
+
 ## Usage
 1. Open the Daily News Application on your device.
 2. Explore the latest news articles on the home screen.
